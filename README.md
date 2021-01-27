@@ -1,4 +1,4 @@
-# Technical test React - Movies
+# Technical test React - Weather
 
 > For confidentiality reasons, please do not fork this repository from GitHub. Create a new private repository on your account.
 
