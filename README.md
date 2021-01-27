@@ -10,7 +10,7 @@ This is an exercice about React.
 
 ## Goals
 
-This exercise is the occasion for you to
+This exercise is the opportunity for you to
 
 - Give us an overview of your **thinking**
 - Demonstrate the **redability** of your code
